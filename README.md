@@ -1,6 +1,6 @@
 # Ethproofs — Project Management (PM)
 
-![Header PNG](../assets/header.png)
+![Header](./assets/header.png)
 
 This repository hosts the **Product Requirements Document (PRD)** for Ethproofs v3 and the **project board** we use to plan and track work. Use this repo for specs, milestones, and cross-repo coordination.
 
