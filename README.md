@@ -11,7 +11,7 @@ This repository hosts the **Product Requirements Document (PRD)** for Ethproofs 
 - 📄 **PRD (Ethproofs v3):** [`PRD.md`](./PRD/PRD.md)  
   _Purpose:_ Defines the vision, scope, features, verification guardrails, success metrics, and long-term roadmap for Ethproofs. Treat it as the single source of truth for product decisions and acceptance criteria.
 
-- 🗺️ **Project Board:** [Ethproofs V3 Board](https://github.com/ethproofs/projects/2)  
+- 🗺️ **Project Board:** [Ethproofs V3 Board](https://github.com/orgs/ethproofs/projects/2)  
   _Purpose:_ Plan, prioritize, and track deliverables across phases (spec, design, implementation, verification, docs).  
   **Columns:** Ideas → Spec’ing → In Progress → In Review → Verified → Done  
   _(TODO: adjust link/columns if your board differs.)_
